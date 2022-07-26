@@ -1,5 +1,7 @@
 # Why are you interested in this dataset?
 
+Since I am looking towards getting a job out of college, I am looking at potential starting salries of the jobs I can get with the college degree I will be earning. I want to use this dataset to see and compare the different majors and how what we study affects our futur job search. 
+
 # What are 10 (or more) questions that you hope to answer through your data analysis?
 
 No. | Question
